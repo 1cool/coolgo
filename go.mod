@@ -1,4 +1,4 @@
-module coolgo
+module github.com/1cool/coolgo
 
 go 1.16
 
